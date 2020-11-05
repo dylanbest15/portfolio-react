@@ -1,0 +1,17 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  display: flex;
+  height: 600px;
+  text-align: center;
+}
+
+section div.container {
+  padding-top: 150px;
+}
+
+i {
+  margin-left: 10px;
+}
