@@ -4,12 +4,12 @@ function Home() {
   return (
     <section id="home">
 
-      <div className="container">
+      <div className="container home-container">
         <h1>Dylan Best</h1>
         <h2>Full-Stack Web Developer</h2>
-        <a href="#Contact">
+        <a href="#contact">
           <button className="btn btn-primary">Let's build something together
-          <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button></a>
+          <i class="fa fa-angle-double-right fa-lg" aria-hidden="true"></i></button></a>
       </div>
 
     </section>

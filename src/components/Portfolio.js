@@ -2,9 +2,11 @@ import React from "react";
 
 function Portfolio() {
   return (
-    <section id="Portfolio">
+    <section id="portfolio">
 
-      <h1>Portfolio</h1>
+      <div className="container page-container">
+        <h1>Portfolio</h1>
+      </div>
 
     </section>
   )

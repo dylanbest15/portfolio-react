@@ -2,16 +2,34 @@ html {
   scroll-behavior: smooth;
 }
 
+nav i {
+  margin: 20px;
+}
+
 section {
   display: flex;
   height: 600px;
   text-align: center;
 }
 
-section div.container {
-  padding-top: 150px;
+div.home-container {
+  padding-top: 200px;
 }
 
-i {
+div.page-container {
+  padding-top: 100px;
+}
+
+section#home i {
   margin-left: 10px;
+}
+
+footer {
+  font-size: 16px;
+  text-align: center;
+  padding: 50px;
+}
+
+i.social-link {
+  margin: 20px;
 }
