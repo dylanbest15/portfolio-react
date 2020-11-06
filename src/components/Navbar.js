@@ -21,10 +21,10 @@ function Navbar() {
         </ul>
       </div>
 
-      <a><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-      <a><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
-      <a><i class="fa fa-file-text-o fa-2x" aria-hidden="true"></i></a>
-      <a><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
+      <a><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+      <a><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a>
+      <a><i class="fa fa-file-text-o fa-lg" aria-hidden="true"></i></a>
+      <a><i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i></a>
 
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>

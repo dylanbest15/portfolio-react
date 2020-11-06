@@ -8,8 +8,9 @@ nav i {
 
 section {
   display: flex;
-  height: 600px;
+  height: 650px;
   text-align: center;
+  border: solid 1px black;
 }
 
 div.home-container {
@@ -18,6 +19,7 @@ div.home-container {
 
 div.page-container {
   padding-top: 100px;
+  position: relative;
 }
 
 section#home i {
@@ -27,9 +29,15 @@ section#home i {
 footer {
   font-size: 16px;
   text-align: center;
-  padding: 50px;
+  padding-bottom: 25px;
+  border-top: solid 1px black;
+}
+
+footer button {
+  position: relative;
+  bottom: 20px;
 }
 
 i.social-link {
-  margin: 20px;
+  margin: 25px;
 }
