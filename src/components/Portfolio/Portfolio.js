@@ -48,8 +48,8 @@ function Portfolio() {
   return (
     <section id="portfolio">
 
-      <div className="container page-container">
-        <h1>Portfolio</h1>
+      <div className="container page-container portfolio-container">
+        <h1>My portfolio.</h1>
         <div className="row">
 
           {state.map(item => (

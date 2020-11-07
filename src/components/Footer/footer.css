@@ -2,14 +2,18 @@ footer {
   font-size: 16px;
   text-align: center;
   padding-bottom: 25px;
-  border-top: solid 1px black;
 }
 
 footer button {
   position: relative;
   bottom: 20px;
+  background-color: white;
 }
 
 i.social-link {
   margin: 25px;
+}
+
+i.social-link:hover {
+  transform: scale(1.2);
 }

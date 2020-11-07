@@ -6,7 +6,7 @@ section {
   display: flex;
   min-height: 650px;
   text-align: center;
-  border: solid 1px black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 div.page-container {

@@ -2,6 +2,19 @@ div.home-container {
   padding-top: 200px;
 }
 
+section#home h1 {
+  font-size: 56px;
+}
+
+section#home h2 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+  
+section#home button:hover {
+  transform: scale(1.2);
+}
+
 section#home i {
   margin-left: 10px;
 }

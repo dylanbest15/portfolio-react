@@ -1,0 +1,14 @@
+section#contact {
+  background-image: linear-gradient( #4e4376, #2b5876);
+  color: white;
+}
+
+section#contact button {
+  background-color: rgba(204, 204, 204, 0);
+  color: white;
+  border: 1px solid white;
+}
+
+section#contact button:hover {
+  transform: scale(1.2);
+}

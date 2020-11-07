@@ -9,7 +9,7 @@ function Contact() {
         <h1>Contact me.</h1>
 
         <div className="row justify-content-center">
-          <div className="col-6">
+          <div className="col-10 col-md-6">
             <form>
               <div className="form-group">
                 <input type="name" class="form-control" id="name" placeholder="Your name."></input>

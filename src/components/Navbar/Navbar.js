@@ -3,7 +3,7 @@ import "./navbar.css";
 
 function Navbar() {
   return (
-    <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar fixed-top navbar-expand-lg">
 
       <div className="collapse navbar-collapse" id="navbarNavDropdown">
         <ul className="navbar-nav">

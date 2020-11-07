@@ -6,7 +6,7 @@ function Footer() {
     <footer>
 
       <a href="#home">
-        <button className="btn btn-primary">
+        <button className="btn btn-primary footer-button">
           <i class="fa fa-angle-double-up fa-2x" aria-hidden="true"></i></button></a>
 
       <br />
