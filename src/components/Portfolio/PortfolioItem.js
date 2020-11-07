@@ -2,7 +2,7 @@ import React from "react";
 
 function PortfolioItem(props) {
   return (
-    <div className="col-6">
+    <div className="col-12 col-md-3">
       <div className="container item-container">
         <img src={props.image} alt={props.name}></img>
         <div className="middle">

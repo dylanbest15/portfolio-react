@@ -4,7 +4,7 @@ html {
 
 section {
   display: flex;
-  height: 650px;
+  min-height: 650px;
   text-align: center;
   border: solid 1px black;
 }
