@@ -10,11 +10,24 @@ section#home h2 {
   font-size: 48px;
   margin-bottom: 20px;
 }
+
+section#home button {
+  background: rgba(204, 204, 204, 0);
+  color: black;
+  border: 3px solid black;
+  font-weight: bold;
+  border-radius: 64px;
+}
   
 section#home button:hover {
-  transform: scale(1.2);
+  background-color: #9cdb4e;
 }
 
 section#home i {
   margin-left: 10px;
+}
+
+span.name {
+  color: #56ab2f;
+  font-size: 72px;
 }

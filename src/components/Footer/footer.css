@@ -4,10 +4,16 @@ footer {
   padding-bottom: 25px;
 }
 
-footer button {
+footer button.footer-button {
   position: relative;
   bottom: 20px;
-  background-color: white;
+  background-color: black;
+  border: 1px solid black;
+}
+
+footer button.footer-button:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
 }
 
 i.social-link {
@@ -16,4 +22,5 @@ i.social-link {
 
 i.social-link:hover {
   transform: scale(1.2);
+  color: darkgreen;
 }
