@@ -9,7 +9,7 @@ section#contact textarea, input {
 
 section#contact button {
   background-color: rgba(204, 204, 204, 0);
-  color: white;
+  color: black;
   font-weight: bold;
   border: 2px solid white;
   box-shadow: 3px 6px darkgreen;
@@ -17,4 +17,5 @@ section#contact button {
 
 section#contact button:hover {
   background-color: darkgreen;
+  color: white;
 }
