@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import PortfolioItem from "./PortfolioItem";
 import "./portfolio.css";
+import image1 from "./assets/portfolioitem1.png";
+import AOS from "aos";
 
 function Portfolio() {
 
@@ -8,13 +10,15 @@ function Portfolio() {
 
   useEffect(() => {
     setState(PortfolioItems);
+    AOS.init();
+    AOS.refresh();
   }, []);
 
   const PortfolioItems = [
     {
       id: 1,
       name: "Work Bytes",
-      image: "https://breakthrough.org/wp-content/uploads/2018/10/default-placeholder-image.png",
+      image: image1,
       tech: "jQuery / Materialize",
       link: "https://relizabet.github.io/Work_Bytes/",
       github: "https://github.com/dylanbest15/Work-Bytes",
@@ -49,8 +53,8 @@ function Portfolio() {
     <section id="portfolio">
 
       <div className="container page-container portfolio-container">
-        <h1>My portfolio.</h1>
-        <div className="row">
+        <h1 data-aos="fade-up">My portfolio.</h1>
+        <div className="row" data-aos="zoom-in">
 
           {state.map(item => (
             <PortfolioItem

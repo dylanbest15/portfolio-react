@@ -9,6 +9,11 @@ section#home h1 {
 section#home h2 {
   font-size: 48px;
   margin-bottom: 20px;
+  animation-delay: 0.5s;
+}
+
+section#home a {
+  animation-delay: 1s;
 }
 
 section#home button {
@@ -31,3 +36,4 @@ span.name {
   color: #56ab2f;
   font-size: 72px;
 }
+

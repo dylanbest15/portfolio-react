@@ -1,14 +1,21 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./contact.css";
+import AOS from "aos";
 
 function Contact() {
+
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+
   return (
     <section id="contact">
 
       <div className="container page-container">
-        <h1>Contact me.</h1>
+        <h1 data-aos="fade-up">Contact me.</h1>
 
-        <div className="row justify-content-center">
+        <div className="row justify-content-center" data-aos="zoom-in">
           <div className="col-10 col-md-6">
             <form>
               <div className="form-group">
