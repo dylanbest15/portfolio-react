@@ -21,7 +21,7 @@ function About() {
           <div className="col-12 col-md-8 p-column" data-aos="fade-up">
             <p>I'm a full-stack web developer with a certificate from the University of New Hampshire coding bootcamp and a
               bachelor's degree from the University of Pittsburgh. I create websites that are<br />
-              <span>fast,</span><span>responsive,</span><span>intuitive</span>and<span>dynamic</span>
+              <span>responsive,</span><span>intuitive</span>and<span>dynamic</span>
               <br /> to create the best user experience. I excel in a team environment and pride myself on my ability to contribute
               to team culture. I'm always looking for new career opportunies and projects with passionate people. I'm a fast
               learner and am perpetually focused on improving my work and learning more.</p>
