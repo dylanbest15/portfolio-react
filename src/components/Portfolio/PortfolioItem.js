@@ -1,9 +1,16 @@
-import React from "react";
+import React, { useEffect } from "react";
+import AOS from "aos";
 
 function PortfolioItem(props) {
+
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+
   return (
     <div className="col-12 col-md-6">
-      <div className="container item-container">
+      <div className="container item-container" data-aos="zoom-in-up">
         <img src={props.image} alt={props.name}></img>
         <div className="middle">
           <p className="text-name">{props.name}</p>

@@ -1,12 +1,12 @@
 section#about {
-  background-image: linear-gradient(#56ab2f, #9cdb4e);
+  background-image: linear-gradient(#56ab2f, #86cc31);
   color: white;
 }
 
 section#about img {
   width: 90%;
   height: auto;
-  box-shadow: 3px 6px darkgreen;
+  box-shadow: 3px 6px green;
   margin-bottom: 30px;
   position: relative;
   left: 25px;
@@ -17,10 +17,36 @@ section#about div.p-column {
   text-align: justify;
 }
 
-section#about span {
-  font-size: 24px;
+div.icon-row {
+  margin-bottom: 50px;
+}
+
+div.circle {
+  background-color: #24a0ed;
   color: white;
-  font-weight: bold;
-  margin: 5px;
-  text-decoration: underline;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+  box-shadow: 2px 4px green;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+h2.responsive {
+  font-size: 20px;
+  position: relative;
+}
+
+h2.intuitive {
+  font-size: 20px;
+  position: relative;
+  left: 14px;
+}
+
+h2.dynamic {
+  font-size: 20px;
+  position: relative;
+  left: 11px;
 }

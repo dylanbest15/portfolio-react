@@ -15,16 +15,35 @@ function About() {
       <div className="container page-container">
         <h1 data-aos="fade-up">About me.</h1>
         <div className="row justify-content-center">
-          <div className="col-12 col-md-4 img-column" data-aos="zoom-in">
+          <div className="col-12 col-md-4 img-column" data-aos="zoom-in-right">
             <img src="https://breakthrough.org/wp-content/uploads/2018/10/default-placeholder-image.png"></img>
           </div>
-          <div className="col-12 col-md-8 p-column" data-aos="fade-up">
+          <div className="col-12 col-md-8 p-column" data-aos="fade-left">
             <p>I'm a full-stack web developer with a certificate from the University of New Hampshire coding bootcamp and a
-              bachelor's degree from the University of Pittsburgh. I create websites that are<br />
-              <span>responsive,</span><span>intuitive</span>and<span>dynamic</span>
-              <br /> to create the best user experience. I excel in a team environment and pride myself on my ability to contribute
-              to team culture. I'm always looking for new career opportunies and projects with passionate people. I'm a fast
-              learner and am perpetually focused on improving my work and learning more.</p>
+              bachelor's degree from the University of Pittsburgh. I create websites that are: </p>
+
+            <div className="row justify-content-center icon-row">
+              <div className="col-3">
+                <div className="circle">
+                  <i class="fa fa-mobile fa-5x" aria-hidden="true"></i>
+                </div>
+                <h2 className="responsive">Responsive</h2>
+              </div>
+              <div className="col-3">
+                <div className="circle">
+                  <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
+                </div>
+                <h2 className="intuitive">Intuitive</h2>
+              </div>
+              <div className="col-3">
+                <div className="circle">
+                  <i class="fa fa-cog fa-5x" aria-hidden="true"></i>
+                </div>
+                <h2 className="dynamic">Dynamic</h2>
+              </div>
+            </div>
+
+            <p>Check out my latest projects below.</p>
           </div>
         </div>
 

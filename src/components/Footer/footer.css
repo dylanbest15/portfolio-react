@@ -8,19 +8,15 @@ footer button.footer-button {
   position: relative;
   bottom: 20px;
   background-color: black;
-  border: 1px solid black;
-}
-
-footer button.footer-button:hover {
-  background-color: darkgreen;
-  border-color: darkgreen;
+  border: 2px solid black;
 }
 
 i.social-link {
   margin: 25px;
+  color: black;
 }
 
 i.social-link:hover {
   transform: scale(1.2);
-  color: darkgreen;
+  color: #24a0ed;
 }

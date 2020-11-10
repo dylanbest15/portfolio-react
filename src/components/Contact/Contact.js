@@ -15,7 +15,7 @@ function Contact() {
       <div className="container page-container">
         <h1 data-aos="fade-up">Contact me.</h1>
 
-        <div className="row justify-content-center" data-aos="zoom-in">
+        <div className="row justify-content-center" data-aos="zoom-in-up">
           <div className="col-10 col-md-6">
             <form>
               <div className="form-group">
