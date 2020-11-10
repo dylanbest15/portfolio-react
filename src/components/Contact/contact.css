@@ -1,9 +1,5 @@
-section#contact {
-  background-color: #edffe1;
-}
-
 section#contact textarea, input {
-  box-shadow: 1px 2px #379683;
+  box-shadow: 1px 2px #24a0ed;
 }
 
 section#contact button {
@@ -15,6 +11,5 @@ section#contact button {
 
 section#contact button:hover {
   background-color: #8ee4ef;
-  border-color: #05386b;
-  color: #05386b;
+  color:white;
 }

@@ -12,7 +12,7 @@ img {
   height: 550px;
   transition: .5s ease;
   backface-visibility: hidden;
-  box-shadow: 3px 6px #379683;
+  box-shadow: 3px 6px #24a0ed;
 }
 
 div.middle {
@@ -38,7 +38,7 @@ div.middle p.text-name {
 
 div.middle p.text-tech {
   font-size: 24px;
-  color: #379683;
+  color: #24a0ed;
   font-weight: bold;
   font-style: italic;
 }
@@ -53,11 +53,12 @@ div.middle button {
 
 div.middle button:hover {
   background-color: #8ee4ef;
-  color: #05386b;
+  color: white;
+  border-color: black;
 }
 
 div.item-container:hover img {
-  opacity: 0.3;
+  opacity: 0.2;
 }
 
 div.item-container:hover div.middle {

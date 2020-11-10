@@ -25,8 +25,7 @@ section#home button {
   
 section#home button:hover {
   background-color: #8ee4ef;
-  border-color: #05386b;
-  color: #05386b;
+  color: white;
 }
 
 section#home i {
@@ -34,7 +33,7 @@ section#home i {
 }
 
 span.name {
-  color: #379683;
+  color: #24a0ed;
   font-size: 72px;
 }
 
