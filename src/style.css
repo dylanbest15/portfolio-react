@@ -15,5 +15,8 @@ div.page-container {
 
 div.page-container h1 {
   font-size: 48px;
+  width: auto;
+  padding-bottom: 10px;
   margin-bottom: 20px;
+  border-bottom: 3px solid #379683;
 }

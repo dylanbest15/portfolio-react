@@ -21,11 +21,12 @@ section#home button {
   color: black;
   border: 3px solid black;
   font-weight: bold;
-  border-radius: 64px;
 }
   
 section#home button:hover {
-  background-color: #24a0ed;
+  background-color: #8ee4ef;
+  border-color: #05386b;
+  color: #05386b;
 }
 
 section#home i {
@@ -33,7 +34,7 @@ section#home i {
 }
 
 span.name {
-  color: #56ab2f;
+  color: #379683;
   font-size: 72px;
 }
 

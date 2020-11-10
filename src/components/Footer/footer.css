@@ -4,11 +4,16 @@ footer {
   padding-bottom: 25px;
 }
 
-footer button.footer-button {
+footer i.back-to-top {
   position: relative;
-  bottom: 20px;
-  background-color: black;
-  border: 2px solid black;
+  top: 25px;
+  color: black;
+  font-weight: bold;
+}
+
+footer i.back-to-top:hover {
+  color: #24a0ed;
+  transform: scale(1.2);
 }
 
 i.social-link {

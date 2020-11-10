@@ -12,7 +12,7 @@ img {
   height: 550px;
   transition: .5s ease;
   backface-visibility: hidden;
-  box-shadow: 3px 6px #999;
+  box-shadow: 3px 6px #379683;
 }
 
 div.middle {
@@ -38,7 +38,7 @@ div.middle p.text-name {
 
 div.middle p.text-tech {
   font-size: 24px;
-  color: darkgreen;
+  color: #379683;
   font-weight: bold;
   font-style: italic;
 }
@@ -47,13 +47,13 @@ div.middle button {
   margin: 10px;
   background-color: rgba(204, 204, 204, 0);
   color: black;
-  border: 2px solid darkgreen;
+  border: 3px solid black;
+  font-weight: bold;
 }
 
 div.middle button:hover {
-  background-color: #24a0ed;
-  color: white;
-  border: 2px solid darkgreen;
+  background-color: #8ee4ef;
+  color: #05386b;
 }
 
 div.item-container:hover img {

@@ -1,12 +1,11 @@
 section#about {
-  background-image: linear-gradient(#56ab2f, #86cc31);
-  color: white;
+  background-color: #edffe1;
 }
 
 section#about img {
   width: 90%;
   height: auto;
-  box-shadow: 3px 6px green;
+  box-shadow: 3px 6px #379683;
   margin-bottom: 30px;
   position: relative;
   left: 25px;
@@ -22,14 +21,14 @@ div.icon-row {
 }
 
 div.circle {
-  background-color: #24a0ed;
+  background-color: #8ee4ef;
   color: white;
   border-radius: 50%;
   width: 100px;
   height: 100px;
   text-align: center;
   padding-top: 10px;
-  box-shadow: 2px 4px green;
+  box-shadow: 2px 4px #379683;
   margin-top: 30px;
   margin-bottom: 15px;
 }
