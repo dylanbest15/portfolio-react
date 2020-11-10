@@ -23,19 +23,19 @@ function About() {
               bachelor's degree from the University of Pittsburgh. I create websites that are: </p>
 
             <div className="row justify-content-center icon-row">
-              <div className="col-3">
+              <div className="col-4 col-md-3">
                 <div className="circle">
                   <i class="fa fa-mobile fa-5x" aria-hidden="true"></i>
                 </div>
                 <h2 className="responsive">Responsive</h2>
               </div>
-              <div className="col-3">
+              <div className="col-4 col-md-3">
                 <div className="circle">
                   <i class="fa fa-lightbulb-o fa-5x" aria-hidden="true"></i>
                 </div>
                 <h2 className="intuitive">Intuitive</h2>
               </div>
-              <div className="col-3">
+              <div className="col-4 col-md-3">
                 <div className="circle">
                   <i class="fa fa-cog fa-5x" aria-hidden="true"></i>
                 </div>
