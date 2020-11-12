@@ -3,11 +3,11 @@ div.home-container {
 }
 
 section#home h1 {
-  font-size: 56px;
+  font-size: 36px;
 }
 
 section#home h2 {
-  font-size: 48px;
+  font-size: 36px;
   margin-bottom: 20px;
   animation-delay: 0.5s;
 }
@@ -19,8 +19,7 @@ section#home a {
 section#home button {
   background: rgba(204, 204, 204, 0);
   color: black;
-  border: 3px solid black;
-  font-weight: bold;
+  border: 2px solid black;
 }
   
 section#home button:hover {
@@ -34,6 +33,6 @@ section#home i {
 
 span.name {
   color: #24a0ed;
-  font-size: 72px;
+  font-size: 48px;
 }
 

@@ -12,7 +12,7 @@ img {
   height: 550px;
   transition: .5s ease;
   backface-visibility: hidden;
-  box-shadow: 3px 6px #24a0ed;
+  box-shadow: 2px 4px #24a0ed;
 }
 
 div.middle {
@@ -31,15 +31,13 @@ div.middle {
 }
 
 div.middle p.text-name {
-  font-size: 36px;
-  font-weight: bold;
+  font-size: 24px;
   margin-bottom: 0;
 }
 
 div.middle p.text-tech {
-  font-size: 24px;
+  font-size: 18px;
   color: #24a0ed;
-  font-weight: bold;
   font-style: italic;
 }
 
@@ -47,8 +45,7 @@ div.middle button {
   margin: 10px;
   background-color: rgba(204, 204, 204, 0);
   color: black;
-  border: 3px solid black;
-  font-weight: bold;
+  border: 2px solid black;
 }
 
 div.middle button:hover {
@@ -58,7 +55,7 @@ div.middle button:hover {
 }
 
 div.item-container:hover img {
-  opacity: 0.2;
+  opacity: 0.1;
 }
 
 div.item-container:hover div.middle {
