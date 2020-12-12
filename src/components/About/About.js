@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import "./about.css";
+import picture from "../../assets/portfolio-picture.jpg";
 import AOS from "aos";
 
 function About() {
@@ -16,7 +17,7 @@ function About() {
         <h1 data-aos="fade-up">About me.</h1>
         <div className="row justify-content-center">
           <div className="col-12 col-md-4 img-column" data-aos="zoom-in-right">
-            <img src="https://breakthrough.org/wp-content/uploads/2018/10/default-placeholder-image.png"></img>
+            <img src={picture}></img>
           </div>
           <div className="col-12 col-md-8 p-column" data-aos="fade-left">
             <p>I'm a full-stack web developer with a certificate from the University of New Hampshire coding bootcamp and a

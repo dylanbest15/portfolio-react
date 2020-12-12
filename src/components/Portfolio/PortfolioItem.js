@@ -9,7 +9,7 @@ function PortfolioItem(props) {
   }, []);
 
   return (
-    <div className="col-12 col-md-6">
+    <div className="col-6 col-md-3">
       <div className="container item-container" data-aos="zoom-in-up">
         <img src={props.image} alt={props.name}></img>
         <div className="middle">

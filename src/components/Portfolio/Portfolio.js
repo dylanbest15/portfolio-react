@@ -32,11 +32,11 @@ function Portfolio() {
     },
     {
       id: 3,
-      name: "Progressive Budget",
-      image: "https://moneyqanda.com/wp-content/uploads/2018/12/adding-fun-money-to-your-budget-fb.png",
-      tech: "Express / MongoDB",
-      link: "https://sleepy-woodland-57490.herokuapp.com/",
-      github: "https://github.com/dylanbest15/Progressive-Budget"
+      name: "Job Trackr",
+      image: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F669868153%2F0x0.jpg%3Ffit%3Dscale",
+      tech: "React.js / MySQL",
+      link: "https://whispering-woodland-82554.herokuapp.com/",
+      github: "https://github.com/dylanbest15/Job-Trackr"
     },
     {
       id: 4,

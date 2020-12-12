@@ -10,10 +10,10 @@ function Footer() {
 
       <br />
 
-      <a href="https://github.com/dylanbest15"><i class="fa fa-github fa-2x social-link" aria-hidden="true"></i></a>
-      <a href="https://www.linkedin.com/in/dylanbest15/"><i class="fa fa-linkedin fa-2x social-link" aria-hidden="true"></i></a>
-      <a href= {Pdf} target="Dylan-Best-Resume.pdf"><i class="fa fa-file-text-o fa-2x social-link" aria-hidden="true"></i></a>
-      <a href="mailto:best.dylan15@gmail.com"><i class="fa fa-envelope-o fa-2x social-link" aria-hidden="true"></i></a>
+      <a href="https://github.com/dylanbest15"><i className="fa fa-github fa-2x social-link" aria-hidden="true"></i></a>
+      <a href="https://www.linkedin.com/in/dylanbest15/"><i className="fa fa-linkedin fa-2x social-link" aria-hidden="true"></i></a>
+      <a href= {Pdf} target="Dylan-Best-Resume.pdf"><i className="fa fa-file-text-o fa-2x social-link" aria-hidden="true"></i></a>
+      <a href="mailto:best.dylan15@gmail.com"><i className="fa fa-envelope-o fa-2x social-link" aria-hidden="true"></i></a>
       <p>Dylan Best © 2020</p>
 
     </footer>
