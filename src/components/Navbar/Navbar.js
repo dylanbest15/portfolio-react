@@ -25,9 +25,6 @@ function Navbar() {
       <a href= {Pdf} target="Dylan-Best-Resume.pdf"><i class="fa fa-file-text-o fa-lg" aria-hidden="true"></i></a>
       <a href="mailto:best.dylan15@gmail.com"><i class="fa fa-envelope-o fa-lg" aria-hidden="true"></i></a>
 
-      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon"></span>
-      </button>
     </nav>
   )
 }
