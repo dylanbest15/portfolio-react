@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import "./about.css";
-import picture from "../../assets/portfolio-picture.jpg";
+import picture from "../../assets/Dylan-Best-Picture.jpg";
 import AOS from "aos";
 
 function About() {
