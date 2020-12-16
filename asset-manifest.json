@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.8b09c2d5.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.350825f9.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.350825f9.chunk.js.map",
+    "main.js": "/portfolio-react/static/js/main.48c68f52.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.48c68f52.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.4296a9ab.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.4296a9ab.js.map",
     "static/css/2.736bdaf4.chunk.css": "/portfolio-react/static/css/2.736bdaf4.chunk.css",
@@ -12,14 +12,14 @@
     "static/css/2.736bdaf4.chunk.css.map": "/portfolio-react/static/css/2.736bdaf4.chunk.css.map",
     "static/css/main.8b09c2d5.chunk.css.map": "/portfolio-react/static/css/main.8b09c2d5.chunk.css.map",
     "static/js/2.b6fbf080.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.b6fbf080.chunk.js.LICENSE.txt",
-    "static/media/Dylan-Best-Resume.ce491ac1.pdf": "/portfolio-react/static/media/Dylan-Best-Resume.ce491ac1.pdf",
-    "static/media/portfolio-picture.71a76e2d.jpg": "/portfolio-react/static/media/portfolio-picture.71a76e2d.jpg"
+    "static/media/Dylan-Best-Picture.00d0244d.jpg": "/portfolio-react/static/media/Dylan-Best-Picture.00d0244d.jpg",
+    "static/media/Dylan-Best-Resume.ce491ac1.pdf": "/portfolio-react/static/media/Dylan-Best-Resume.ce491ac1.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.4296a9ab.js",
     "static/css/2.736bdaf4.chunk.css",
     "static/js/2.b6fbf080.chunk.js",
     "static/css/main.8b09c2d5.chunk.css",
-    "static/js/main.350825f9.chunk.js"
+    "static/js/main.48c68f52.chunk.js"
   ]
 }
